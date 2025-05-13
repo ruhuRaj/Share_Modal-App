@@ -1,1 +1,1 @@
-<h1>Share Nodal App</h1>
+<h1>Share Modal App</h1>
